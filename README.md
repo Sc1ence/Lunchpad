@@ -1,4 +1,4 @@
 Lunchpad
 ========
 
-Library and Launcher for using Novation Launchpad (S)
+Library and Launcher using Novation Launchpad (S)
